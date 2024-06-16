@@ -13,7 +13,7 @@ Hard Skills
  - C# / .NET / MVC ASP.NET / NODE JS
  - DataBase: PosgresSQL / GraphQL  
  - WEB: JavaScript / HTML / CSS / React
- - Knowledge of tools: Docker / Git / 
+ - Knowledge of tools: Docker / Git  
  - Clear Coding knowledge of "SOLID" Principles
 
 Soft Skills
@@ -21,6 +21,7 @@ Soft Skills
  - Always willing to learn something new
  - Good discipline, very rarely late 
  - Friendly and non-conflictive person
+ - Good knowledge of English, Latvian and Russian language
  - There is a strong desire to become better and learn from the best
    
 
