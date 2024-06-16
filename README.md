@@ -18,7 +18,11 @@ Hard Skills
 Soft Skills
  
  -  
- 
+
+
+
+ Contact with me: 
+   WorkEmail@inbox.lv
   
    
 
