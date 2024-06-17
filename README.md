@@ -12,9 +12,8 @@ Hard Skills
 
  - C# / .NET / MVC ASP.NET 
  - DataBase: PosgresSQL / MySQL 
- - WEB: JavaScript / HTML / CSS / React
- - Knowledge of tools: Docker / Git / GraphQL 
- - Clear Coding knowledge of "SOLID" Principles
+ - WEB: JavaScript / HTML / CSS 
+ - Knowledge of tools: Git 
 
 Soft Skills
  
