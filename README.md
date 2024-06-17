@@ -10,10 +10,10 @@ About me
 
 Hard Skills
 
- - C# / .NET / MVC ASP.NET / NODE JS
- - DataBase: PosgresSQL / GraphQL  
+ - C# / .NET / MVC ASP.NET 
+ - DataBase: PosgresSQL / MySQL 
  - WEB: JavaScript / HTML / CSS / React
- - Knowledge of tools: Docker / Git  
+ - Knowledge of tools: Docker / Git / GraphQL 
  - Clear Coding knowledge of "SOLID" Principles
 
 Soft Skills
