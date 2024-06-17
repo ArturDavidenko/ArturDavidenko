@@ -26,7 +26,7 @@ Soft Skills
    
 
  Contact with me: 
-   WorkEmail@inbox.lv
+   artursdavidenko@gmail.com
   
    
 
