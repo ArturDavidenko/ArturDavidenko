@@ -10,10 +10,10 @@ About me
 
 Hard Skills
 
- - C# / .NET / MVC ASP.NET 
+ - C# / .NET / MVC ASP.NET / Microsoft Visual Studio / REST API / Entity Framework / LINQ / JSON
  - DataBase: PosgresSQL / MySQL 
  - WEB: JavaScript / HTML / CSS 
- - Knowledge of tools: Git 
+ - Knowledge of tools: Git / Jira 
 
 Soft Skills
  
