@@ -18,10 +18,9 @@ Hard Skills
 Soft Skills
  
  - Always willing to learn something new
- - Good discipline, very rarely late 
- - Friendly and non-conflictive person
+ - Sociable, good organizer, quick learner 
+ - Flexible person
  - Good knowledge of English, Latvian and Russian language
- - There is a strong desire to become better and learn from the best
    
 
  Contact with me: 
