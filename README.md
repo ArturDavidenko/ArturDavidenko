@@ -3,17 +3,18 @@
 About me
 
  - My name is Artur Davidenko !
- - I am 21 years old 
+ - I am 22 years old 
  - I am a 4th year student at LBTU University
  - I am .NET backend developer
  - I am a student and am willing to come to an internship for a new experience !
 
 Hard Skills
 
- - C# / .NET / MVC ASP.NET / Microsoft Visual Studio / REST API / Entity Framework / LINQ / JSON
+ - Tech: C# / .NET / MVC ASP.NET / Microsoft Visual Studio / REST API / WEB API / Entity Framework / LINQ / JSON /
+ - JWT / Oauth 2.0 / CI/CD / Unit Testing(xUnit)
  - DataBase: PosgresSQL / MySQL / MongoDB
  - WEB: JavaScript / HTML / CSS 
- - Knowledge of tools: Git / Jira 
+ - Knowledge of tools: Git / Jira / Docker 
 
 Soft Skills
  
