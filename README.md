@@ -12,7 +12,7 @@ Hard Skills
 
  - Tech: C# / .NET / MVC ASP.NET / Microsoft Visual Studio / REST API / WEB API / Entity Framework / LINQ / JSON /
  - JWT / Oauth 2.0 / CI/CD / Unit Testing(xUnit)
- - DataBase: PosgresSQL / MySQL / MongoDB
+ - DataBase: PosgresSQL / MongoDB
  - WEB: JavaScript / HTML / CSS 
  - Knowledge of tools: Git / Jira / Docker 
 
