@@ -11,7 +11,7 @@ About me
 Hard Skills
 
  - Tech: C# / .NET 8 / MVC ASP.NET / REST API / WEB API / Entity Framework / LINQ /
- - JWT / CI/CD / Unit Testing(xUnit) / Redis / GraphQL 
+ - JWT / CI/CD / Unit Testing(xUnit) / Redis / GraphQL / RabbitMQ
  - DataBase: PosgresSQL / MongoDB
  - WEB: JavaScript / HTML / CSS 
  - Knowledge of tools: Git / Jira / Docker 
