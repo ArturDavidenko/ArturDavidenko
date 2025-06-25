@@ -3,10 +3,9 @@
 About me
 
  - My name is Artur Davidenko !
- - I am 22 years old 
- - I am a 4th year student at LBTU University
- - I am .NET backend developer
- - I am a student and am willing to come to an internship for a new experience !
+ - I am 22 years old. 
+ - I am a graduate of LBTU University.
+ - I am .NET software engineer.
 
 Hard Skills
 
