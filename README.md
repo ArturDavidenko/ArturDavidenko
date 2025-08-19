@@ -5,21 +5,21 @@ About me
  - My name is Artur Davidenko !
  - I am 22 years old. 
  - I am a graduate of LBTU University.
- - I am .NET software engineer.
+ - I am Software Engineer.
 
 Hard Skills
 
- - Tech: C# / .NET 8 / MVC ASP.NET / REST API / WEB API / Entity Framework / LINQ /
- - JWT / CI/CD / Unit Testing(xUnit) / Redis / GraphQL / RabbitMQ
+ - BackEnd Tech: C# / .NET / ASP.NET / REST API / WEB API / Entity Framework / LINQ / JWT / Unit Testing / Redis / GraphQL / RabbitMQ
+ - DevOps: CI/CD 
  - DataBase: PosgresSQL / MongoDB
- - WEB: JavaScript / HTML / CSS 
- - Knowledge of tools: Git / Jira / Docker 
+ - FrontEnd Tech: TypeScript / Angular / HTML / SCSS 
+ - Knowledge of tools: Git / Jira / Docker / Confluence
 
 Soft Skills
  
  - Always willing to learn something new
  - Sociable, good organizer, quick learner 
- - Flexible person
+ - Flexible person and open to help other
  - Good knowledge of English, Latvian and Russian language
    
 
