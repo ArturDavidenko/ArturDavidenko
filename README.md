@@ -6,51 +6,6 @@ Recently, I completed a valuable internship at **SEB bank**, one of the largest 
 
 ---
 
-## 🚀 Featured Projects
-
-Here are a couple of my key projects that best represent my skills and approach to development:
-
-### 💱 [ExchangeRatePortal](https://github.com/ArturDavidenko/ExchangeRatePortal)
-**A test project showcasing architectural thinking** - a full-stack application for tracking currency exchange rates with clean architecture and modern development practices. This project demonstrates my approach to building scalable and maintainable solutions.
-
-*   **Backend Architecture:** ASP.NET Core Web API, Clean/Onion Architecture, Repository Pattern
-*   **API & Documentation:** RESTful API with Swagger documentation
-*   **Testing:** Comprehensive test coverage with xUnit (Unit & Integration tests)
-*   **Database:** MongoDB for flexible data storage
-*   **Frontend:** Angular with TypeScript, RxJS for state management
-*   **Key Features:**
-    *   Real-time currency calculator with conversion logic
-    *   Automated daily exchange rate updates via scheduled jobs
-    *   Current rates display with intuitive UI
-    *   Historical exchange rate tracking and visualization
-    *   Modular, testable codebase with separation of concerns
-
-### 🧼 [CRMAlvaClean](https://github.com/ArturDavidenko/CRMAlvaClean)
-**A dual-architecture CRM system** for cleaning service management, featuring both production-ready monolithic and in-progress microservices implementations.
-
-*   **Version 1 - Monolith (MVP Ready):**
-    *   **Backend:** .NET 8, ASP.NET Core with REST API
-    *   **Authentication:** JWT (JSON Web Tokens) based security
-    *   **Database:** MongoDB for document-based data storage
-    *   **Testing:** xUnit for comprehensive test coverage
-    *   **Deployment:** Docker containerization for easy deployment
-
-*   **Version 2 - Microservices (In Development):**
-    *   **Architecture:** Distributed microservices ecosystem
-    *   **Technology Stack:** .NET 8, ASP.NET Core for each service
-    *   **Communication:** REST APIs between services
-    *   **Goal:** Improved scalability and independent service deployment
-
-*   **Key Features:**
-    *   Client and order management system
-    *   Employee task scheduling and tracking
-    *   Role-based access control (RBAC)
-    *   Business logic modularity and clean code architecture
-
-> *Explore my GitHub to see more of my work and contributions.*
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 ### **Backend & Core**
@@ -99,6 +54,18 @@ Here are a couple of my key projects that best represent my skills and approach 
 *   **Team Player:** Sociable, a good organizer, and always open to helping colleagues.
 *   **Adaptable:** Flexible and able to quickly adjust to new projects and requirements.
 *   **Communication:** Fluent in English, Latvian, and Russian.
+
+---
+
+## 🚀 Featured Projects
+
+### 💱 [ExchangeRatePortal](https://github.com/ArturDavidenko/ExchangeRatePortal)
+Full-stack currency exchange application with clean architecture and real-time rate tracking.
+
+### 🧼 [CRMAlvaClean](https://github.com/ArturDavidenko/CRMAlvaClean)
+Dual-architecture CRM system with monolithic (MVP ready) and microservices implementations.
+
+> *Explore my GitHub profile for more projects and contributions.*
 
 ---
 
