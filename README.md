@@ -74,3 +74,4 @@ Dual-architecture CRM system with monolithic (MVP ready) and microservices imple
 I'm always open to discussing new opportunities, exciting projects, or just chatting about tech.
 
 **Email:** [artursdavidenko@gmail.com](mailto:artursdavidenko@gmail.com)
+**Linkedin:** [Arturs Davidenko](https://www.linkedin.com/in/arturs-davidenko-b931b4299/)
