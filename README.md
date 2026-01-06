@@ -54,6 +54,27 @@ Recently, I completed a valuable internship at **SEB bank**, one of the largest 
 
 ---
 
+## 🚀 Featured Projects
+
+Here are a couple of my key projects that best represent my skills and approach to development:
+
+### 💱 [ExchangeRatePortal](https://github.com/ArturDavidenko/ExchangeRatePortal)
+A full-stack web application for tracking and comparing currency exchange rates from multiple sources in real-time.
+*   **Backend:** ASP.NET Core Web API, Entity Framework Core, PostgreSQL
+*   **Frontend:** Angular, TypeScript, RxJS, SCSS
+*   **Key Features:** REST API, JWT Authentication, scheduled data fetching, responsive UI.
+
+### 🧼 [CRMAlvaClean](https://github.com/ArturDavidenko/CRMAlvaClean)
+A Customer Relationship Management (CRM) system designed for a cleaning service company to manage clients, orders, and employee tasks.
+*   **Backend:** .NET 6, ASP.NET Core, Entity Framework Core
+*   **Database:** SQL Server / PostgreSQL
+*   **Architecture:** Layered architecture, Repository pattern, DTOs.
+*   **Key Features:** Role-based authorization, business logic modularity, clean code structure.
+
+> *Explore my GitHub to see more of my work and contributions.*
+
+---
+
 ## 📫 Let's Connect!
 
 I'm always open to discussing new opportunities, exciting projects, or just chatting about tech.
