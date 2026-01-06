@@ -1,45 +1,61 @@
-## Hi there 👋
+# 👋 Hello, I'm Artur Davidenko
 
-About me
+**Software Engineer & Developer** with a strong foundation in full-stack .NET development. I'm passionate about building efficient, scalable backend systems and creating clean, user-friendly interfaces. A quick learner and team player, I thrive in collaborative environments and am always eager to tackle new challenges and technologies.
 
- - My name is Artur Davidenko !
- - I am 22 years old. 
- - I am a graduate of LBTU University.
- - I am Software Engineer.
+Recently, I completed a valuable internship at **SEB bank**, one of the largest Baltic financial institutions, where I gained hands-on experience in developing enterprise-level solutions.
 
-Hard Skills
+---
 
- - BackEnd Tech: C# / .NET / ASP.NET / REST API / WEB API / Entity Framework / LINQ / JWT / Unit Testing / Redis / GraphQL / RabbitMQ
- - DevOps: CI/CD 
- - DataBase: PosgresSQL / MongoDB
- - FrontEnd Tech: TypeScript / Angular / HTML / SCSS 
- - Knowledge of tools: Git / Jira / Docker / Confluence
+## 🛠️ Tech Stack & Skills
 
-Soft Skills
- 
- - Always willing to learn something new
- - Sociable, good organizer, quick learner 
- - Flexible person and open to help other
- - Good knowledge of English, Latvian and Russian language
-   
+### **Backend & Core**
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-FF6C37?logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?logo=dotnet&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens)
 
- Contact with me: 
-   artursdavidenko@gmail.com
-  
-   
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
+### **Frontend**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
 
-<!--
-**ArturDavidenko/ArturDavidenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-FF6C37?logo=githubactions&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![Agile](https://img.shields.io/badge/-Agile-0091D7?logo=agile&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education & Experience
+
+*   **University:** Graduate of **LBTU University**.
+*   **Professional Focus:** **Software Engineer / Developer** specializing in the .NET ecosystem.
+*   **Key Experience:** Completed an internship at **SEB bank**, gaining insight into large-scale, mission-critical financial software development.
+
+---
+
+## 🌟 Soft Skills
+
+*   **Always Learning:** Proactive in learning new technologies and methodologies.
+*   **Team Player:** Sociable, a good organizer, and always open to helping colleagues.
+*   **Adaptable:** Flexible and able to quickly adjust to new projects and requirements.
+*   **Communication:** Fluent in English, Latvian, and Russian.
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to discussing new opportunities, exciting projects, or just chatting about tech.
+
+**Email:** [artursdavidenko@gmail.com](mailto:artursdavidenko@gmail.com)
