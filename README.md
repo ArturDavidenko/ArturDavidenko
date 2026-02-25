@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Artur Davidenko
 
-**Software Engineer & Developer** with a strong foundation in full-stack .NET development. I'm passionate about building efficient, scalable backend systems and creating clean, user-friendly interfaces. A quick learner and team player, I thrive in collaborative environments and am always eager to tackle new challenges and technologies.
-
-Recently, I completed a valuable internship at **SEB bank**, one of the largest Baltic financial institutions, where I gained hands-on experience in developing enterprise-level solutions.
+**.NET Software Engineer** with a strong engineering mindset, focused on building maintainable and scalable systems.
+Experienced in Agile teams with hands-on work at SEB Bank. Thinks beyond code — with a strong focus on architecture, product mindset, and long-term system growth.
 
 ---
 
