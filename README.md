@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Artur Davidenko
 
 **.NET Software Engineer** with a strong engineering mindset, focused on building maintainable and scalable systems.
-Experienced in Agile teams with hands-on work at SEB Bank. Thinks beyond code — with a strong focus on architecture, product mindset, and long-term system growth.
+Experienced in Agile teams with hands-on work at SEB Bank. Thinks beyond code - with a strong focus on architecture, product mindset, and long-term system growth.
 
 ---
 
