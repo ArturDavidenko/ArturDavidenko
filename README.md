@@ -13,6 +13,8 @@ Experienced in Agile teams with hands-on work at SEB Bank. Thinks beyond code - 
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-FF6C37?logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?logo=dotnet&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens)
 ![xUnit](https://img.shields.io/badge/-xUnit-0091D7?logo=xunit&logoColor=white)
@@ -20,22 +22,16 @@ Experienced in Agile teams with hands-on work at SEB Bank. Thinks beyond code - 
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
 ### **Frontend**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
-![RxJS](https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)  
 
 ### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-FF6C37?logo=githubactions&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 ![Agile](https://img.shields.io/badge/-Agile-0091D7?logo=agile&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
 
 ---
 
