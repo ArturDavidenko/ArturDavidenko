@@ -57,8 +57,8 @@ Hands-on experience working in Agile teams in modern tech companies. Thinks beyo
 ### 💱 [ExchangeRatePortal](https://github.com/ArturDavidenko/ExchangeRatePortal)
 Full-stack currency exchange application with clean architecture and real-time rate tracking.
 
-### 🧼 [CRMAlvaClean](https://github.com/ArturDavidenko/CRMAlvaClean)
-Dual-architecture CRM system with monolithic (MVP ready) and microservices implementations.
+### 🧙 [RpgIdleGame](https://github.com/ArturDavidenko/RpgIdleGame)
+Fullstack Idle RPG web application (Angular + .NET) with modular clean backend architecture, featuring scalable MVP iterations (0.1+), grid-based multi-inventory system, companion-driven expeditions, crafting  mechanics, and extensible Path of Exile–inspired progression systems.
 
 > *Explore my GitHub profile for more projects and contributions.*
 
